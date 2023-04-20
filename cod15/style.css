@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{ 
+    background-color: lightpink;
+      font-family: 'Times New Roman', Times, serif;
+    }
+h1{ 
+    color: rgb(49, 47, 53);
+    background-color: aliceblue;
+}
+p{
+    text-align: justify;
+}
